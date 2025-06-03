@@ -8,7 +8,7 @@ const HeartfeltSection: React.FC = () => {
     },
     {
       title: "Nos plus beaux souvenirs",
-      content: "Nos balades main dans la main, nos fous rires interminables, nos voyages inoubliables, et tous ces petits moments du quotidien qui sont devenus si précieux."
+      content: "Nos balades main dans la main, nos moments inoubliables, et tous ces petits moments du quotidien qui sont devenus si précieux."
     },
     {
       title: "Ce que je te souhaite",
@@ -36,8 +36,7 @@ const HeartfeltSection: React.FC = () => {
       </div>
       
       <div className="mt-12 text-center">
-        <p className="text-2xl font-bold text-red-500">Je t'aime infiniment ❤️</p>
-        <p className="mt-2 text-pink-700 italic">Aujourd'hui, demain et pour toujours</p>
+        <p className="text-2xl font-bold text-red-500">Je t'aime Chérie ❤️</p>
       </div>
     </div>
   );

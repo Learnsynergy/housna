@@ -32,7 +32,7 @@ const MusicPlayer: React.FC<MusicPlayerProps> = ({ isPlaying, togglePlay }) => {
         <audio 
           ref={audioRef} 
           loop 
-          src="https://www.chosic.com/wp-content/uploads/2021/02/Sweet_Love_-_AshamaluevMusic.mp3"
+          src="/Camélia.mp3"
         />
         <span className="ml-2 text-sm text-pink-700">
           {isPlaying ? 'Pause' : 'Jouer'} la musique
